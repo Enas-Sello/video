@@ -1,0 +1,12 @@
+.container{
+    max-width: 750px;
+    overflow: hidden;
+}
+video{width: 100%;}
+button{
+margin: 5px;
+padding: 8px;
+background-color: rgb(59, 157, 78);
+border: none;
+border-radius: 5px;
+font-size: 20px;}
